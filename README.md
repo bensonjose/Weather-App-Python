@@ -8,7 +8,7 @@ Tkinter is the standard GUI library for Python.<br> Python when combined with Tk
 The main modules used for building this application are:-<br>**1.Requests<br>2.Time**<br>
 
 
-This application fetches the weather with the help of an API.<br>
+This application fetches the weather info with the help of an API.<br>
 Input has to be a City name, it'll give you the Weather of that particular location.<br>
 It along with the Temperature will also give give you the Sunrise time, Sunset time, Wind Speed etc...<br>
 <br>
